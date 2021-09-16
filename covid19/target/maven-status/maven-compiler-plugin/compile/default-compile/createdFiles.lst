@@ -1,0 +1,4 @@
+covid19\controller\HomeContoller.class
+covid19\dashboardapplication\Covid19DashboardApplication.class
+covid19\model\Covid19Data.class
+covid19\service\Covid19DataService.class
